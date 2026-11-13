@@ -11,11 +11,12 @@ B. verify read and write tests
 3 - slither AKA norminete
 4 - echidna
  --   cd /src
+
    echidna contracts/test/fuzzing/VaultFuzzTest.sol --contract VaultFuzzTest --config contracts/test/fuzzing/config.yaml
 
+  echidna- If your contract has certain administrative functions (like selfdestruct() or transferOwnership()) that you don't want Echidna to cal
 
-
-CRREEEATE AI AGENT WITH EVERY SINGLE SCENARIO THAT DEFI GOT REKT LO0LOLOLO
+CRREEEATE AI AGENT WITH EVERY SINGLE SCENARIO THAT DEFI GOT REKT 
 
 
 
